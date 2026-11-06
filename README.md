@@ -1,6 +1,6 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:111827,75:312e81,100:06b6d4&height=210&section=header&text=SYSTEM%20INITIALIZED&fontSize=38&fontColor=00E5FF&animation=fadeIn&fontAlignY=36&desc=DEVELOPER%20PORTFOLIO%20%7C%20TECH%20%7C%20INNOVATION&descSize=12&descColor=FFFFFF&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:111827,75:312e81,100:06b6d4&height=210&section=header&text=SYSTEM%20INITIALIZED&fontSize=38&fontColor=00E5FF&animation=fadeIn&fontAlignY=36&desc=DEVELOPER%20%7C%20TECH%20%7C%20INNOVATION&descSize=12&descColor=FFFFFF&descAlignY=58" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Hello%2C+World!+I%27m+Milena.;Exploring+the+world+of+technology.;Learning+Artificial+Intelligence.;Building+ideas+into+technology.;The+future+is+written+in+code." />
 
