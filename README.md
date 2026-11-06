@@ -17,8 +17,8 @@
 <h2 align="center">  SOBRE MIM</h2>
 
 ```yaml
-name: Milena
-country: Brazil
+name: Milena Karoline dos S. Souza
+location: Campina Grande, Paraíba, Brasil
 university: Universidade Estadual da Paraíba
 degree: Análise e Desenvolvimento de Sistemas
 
@@ -38,7 +38,6 @@ interests:
   - Tecnologia e Inovação
 
 mission: "Aprender, desenvolver e inovar."
-status: "Sempre evoluindo."
 ```
 
 Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas na Universidade Estadual da Paraíba (UEPB)** e técnica em Programação de Jogos Digitais.
