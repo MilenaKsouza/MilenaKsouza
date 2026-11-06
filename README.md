@@ -14,7 +14,7 @@
 
 ---
 
-<h2 align="center">◈ 01 — SOBRE MIM</h2>
+<h2 align="center">  SOBRE MIM</h2>
 
 ```yaml
 name: Milena
@@ -53,7 +53,7 @@ Acredito que a tecnologia é uma ferramenta poderosa para transformar ideias em 
 
 ---
 
-<h2 align="center">◈ 02 — TECNOLOGIAS E FERRAMENTAS</h2>
+<h2 align="center"> TECNOLOGIAS E FERRAMENTAS</h2>
 
 <div align="center">
 
@@ -76,7 +76,7 @@ Acredito que a tecnologia é uma ferramenta poderosa para transformar ideias em 
 
 ---
 
-<h2 align="center">◈ 03 — PROJETOS</h2>
+<h2 align="center"> PROJETOS</h2>
 
 <div align="center">
 
@@ -90,7 +90,7 @@ Aqui você encontrará projetos acadêmicos, experimentos de programação e sol
 
 ---
 
-<h2 align="center">◈ 04 — MISSION CONTROL</h2>
+<h2 align="center"> MISSION CONTROL</h2>
 
 ```bash
 ┌──────────────────────────────────────────────┐
@@ -110,7 +110,7 @@ Aqui você encontrará projetos acadêmicos, experimentos de programação e sol
 
 ---
 
-<h2 align="center">◈ 05 — GITHUB ANALYTICS</h2>
+<h2 align="center"> GITHUB ANALYTICS</h2>
 
 <div align="center">
 
@@ -126,7 +126,7 @@ Aqui você encontrará projetos acadêmicos, experimentos de programação e sol
 
 ---
 
-<h2 align="center">◈ 06 — CONTRIBUTION ACTIVITY</h2>
+<h2 align="center"> CONTRIBUTION ACTIVITY</h2>
 
 <div align="center">
 
@@ -136,7 +136,7 @@ Aqui você encontrará projetos acadêmicos, experimentos de programação e sol
 
 ---
 
-<h2 align="center">◈ 07 — GITHUB TROPHIES</h2>
+<h2 align="center"> GITHUB TROPHIES</h2>
 
 <div align="center">
 
@@ -146,7 +146,7 @@ Aqui você encontrará projetos acadêmicos, experimentos de programação e sol
 
 ---
 
-<h2 align="center">◈ 08 — CONECTE-SE COMIGO</h2>
+<h2 align="center"> CONECTE-SE COMIGO</h2>
 
 <div align="center">
 
