@@ -176,3 +176,6 @@ Aqui você encontrará projetos acadêmicos, experimentos de programação e sol
 <img src="https://komarev.com/ghpvc/?username=MilenaKsouza&style=flat-square&color=06B6D4&label=PROFILE+VIEWS" />
 
 </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MilenaKsouza/MilenaKsouza/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
